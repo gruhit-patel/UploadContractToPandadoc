@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wcEbkBokQEeLNoCNTcchog" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ccbst.ccbst.co/x/fao-student/new-students" CVScreenId="23c0b1c2-de4c-472d-adf1-fc88fcace083" CvTextArea="1571, 817, 224, 16" CvTextArgument="Resend Contract Ready Mail" CvType="Text" DesignTimeRectangle="1543, 814, 260, 28" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl id='datatable_ajax' tag='TABLE' /&gt;&lt;webctrl aaname='Resend Send Contract Ready Mail' tableRow='2' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='datatable_ajax' tag='TABLE' /&gt;&lt;webctrl aaname='Resend Send Contract Ready Mail' type='' tag='BUTTON' class='btn btn-group-justified dropdown-item p-3 send-contract-mail-btn' check:innerText='Resend Contract Ready Mail' /&gt;" Guid="b4e0b16d-c85a-48cf-9e83-b85064ead721" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CCBST | FAO Audit Student List' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1566, 566, 114, 84" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='datatable_ajax' tag='TABLE' /&gt;&lt;webctrl aaname='Placement Officer' type='' tag='TH' class='sorting_disabled' check:innerText='Placement Officer' /&gt;" Guid="529f2ad7-1fe3-4396-a9b4-084d18397d76" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="281f7950e8aff8275a00e51197772a2a.png" xmlns="">0tWx-Vgml90GUEu8NKJJXUQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

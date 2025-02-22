@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="b5Gu2FrQ5UGhyYv-tnUE9Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ccbst.ccbst.co/x" CVScreenId="03854641-fa2c-46ce-9747-3dd77277adf1" CvElementArea="781, 588, 376, 44" CvType="InputBox" DesignTimeRectangle="782, 589, 375, 42" DesignTimeScaleFactor="1.25" ElementType="InputBoxPassword" FullSelectorArgument="&lt;webctrl id='password' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='password' tag='INPUT' type='password' class='required form-control form-control-solid placeholder-no-fix' placeholder='Password' aaname='' /&gt;" Guid="57611733-9020-41c7-8289-bbfd73e61ee3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CCBST | Admin Login' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="03854641-fa2c-46ce-9747-3dd77277adf1" CvElementArea="779, 649, 90, 47" CvTextArea="796, 664, 55, 17" CvTextArgument="LOGIN" CvType="Button" DesignTimeRectangle="782, 651, 85, 42" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn green uppercase' aaname='Login' check:innerText='LOGIN' /&gt;" Guid="d327c0f8-97b2-4d3f-ab70-9f347fcf61b3" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d194fe13606f9350191dbb9d741533c8.png" xmlns="">0XEOKV_tCMUCJ8101ceeFsQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

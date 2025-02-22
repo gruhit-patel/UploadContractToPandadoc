@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ClTCN53Wp0y_kkUFedMnfQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ccbst.ccbst.co/x/fao-student/new-students" CVScreenId="f63339a9-cb2f-493e-8ba7-db57cb37f812" CvElementArea="1550, 915, 24, 19" CvTextArea="1576, 915, 220, 17" CvTextArgument="Resend Contract Ready Mail" CvType="CheckBox" DesignTimeRectangle="1543, 912, 261, 28" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl id='datatable_ajax' tag='TABLE' /&gt;&lt;webctrl aaname='Resend Send Contract Ready Mail' tableRow='2' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='datatable_ajax' tag='TABLE' /&gt;&lt;webctrl aaname='Resend Send Contract Ready Mail' type='' tag='BUTTON' class='btn btn-group-justified dropdown-item p-3 send-contract-mail-btn' check:innerText='Resend Contract Ready Mail' /&gt;" Guid="cfff22ce-46c4-452d-ae40-d73aa8171ec2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CCBST | FAO Audit Student List' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4e6e6001875aec81cdbf5f15cf88406c.png" xmlns="">0erm1su3-x0SaHKF5DllC6g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

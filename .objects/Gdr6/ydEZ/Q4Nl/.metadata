@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome CCBST  Edit Staff Details",
+  "Type": "Screen",
+  "Id": "Q4Nlhno0R0CdsceVxzSXOw",
+  "Reference": "I7eE9wqUo0yoJupDUZEzVQ/Q4Nlhno0R0CdsceVxzSXOw",
+  "ParentRef": "I7eE9wqUo0yoJupDUZEzVQ/ydEZd3pgAkKjTXzdbHUnaw",
+  "Created": "2025-02-18T17:27:17.2939749Z",
+  "Updated": "2025-02-18T17:27:17.2939749Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

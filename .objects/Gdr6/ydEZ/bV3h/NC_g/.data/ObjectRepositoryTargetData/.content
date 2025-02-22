@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="28yaJpRdHEyXmEpSdt1RZg" Reference="I7eE9wqUo0yoJupDUZEzVQ/NC_gsfUc0UW7bveXF_Dr-g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="app.pandadoc.com/a" CVScreenId="ef3ae902-7130-4487-b9e4-d9e6c032146d" CvTextArea="539, 479, 487, 21" CvTextArgument="[templateName]" CvType="Text" DesignTimeRectangle="540, 474, 486, 27" DesignTimeScaleFactor="1.350000023841858" FuzzySelectorArgument="[searchingFuzzySelector]" Guid="a2e64933-58da-4a67-9d20-f72fbe0814d0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PandaDoc' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="cd58575ae3f1e046b267dd4f9d4004c8.png" xmlns="">0so03755yPEWk6DMzYTupIQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="2">
+      <ObjectRepositoryVariableData Name="searchingFuzzySelector" />
+      <ObjectRepositoryVariableData Name="templateName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

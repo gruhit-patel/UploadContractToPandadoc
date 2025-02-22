@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome CCBST  Student list",
+  "Type": "App",
+  "Id": "Pg6jEwbWyE-4nmv-LBOzwg",
+  "Reference": "I7eE9wqUo0yoJupDUZEzVQ/Pg6jEwbWyE-4nmv-LBOzwg",
+  "Created": "2025-02-18T16:45:03.6314253Z",
+  "Updated": "2025-02-18T16:45:03.6314253Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

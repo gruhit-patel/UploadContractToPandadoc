@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="85HP1k0ZEE2s21Nfljowfw" Reference="I7eE9wqUo0yoJupDUZEzVQ/E9FSJJdDi0y6CqI705BkrQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="app.pandadoc.com/a" DesignTimeRectangle="135, 329, 275, 219" DesignTimeScaleFactor="1.350000023841858" FullSelectorArgument="&lt;webctrl id='kolas-editor-iframe' tag='IFRAME' /&gt;&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div' idx='5' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='kolas-editor-iframe' tag='IFRAME' /&gt;&lt;webctrl type='' class='Root-e8f6ed-0 ksHtmU Menu-sc-4ipabb-0 fynBin' tag='DIV' aaname='' check:innerText='Rename&amp;#xA;Replace source file&amp;#xA;Add to Content Library&amp;#xA;Delete' /&gt;" Guid="efc82c4b-12ef-4dd2-862e-b4fb26a58c79" ScopeSelectorArgument="[threeDotWindowSelector]" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="84aa4c878d85f46ef1a83005e8e31518.png" xmlns="">03RpWjMw7a0u2AYHUToA55g</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="threeDotWindowSelector" />
+    </scg:List>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

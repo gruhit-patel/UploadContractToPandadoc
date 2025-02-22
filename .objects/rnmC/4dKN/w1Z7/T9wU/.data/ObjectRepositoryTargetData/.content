@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Qavo512JSE-qkq3VkLaccg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ccbst.ccbst.co/x/new-students" CVScreenId="085a1e7e-7ad9-422d-9f9e-7494e44ae5ad" CvTextArea="196, 690, 16, 13" CvTextArgument="ID" CvType="Text" DesignTimeRectangle="176, 637, 60, 83" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl id='datatable_ajax' tag='TABLE' /&gt;&lt;webctrl aaname='ID' tableRow='1' tag='TH' /&gt;" FuzzySelectorArgument="&lt;webctrl id='datatable_ajax' tag='TABLE' /&gt;&lt;webctrl aaname='ID' type='' tag='TH' class='sorting_disabled' check:innerText='ID' /&gt;" Guid="45a570c9-c5f1-42f8-b3f6-4fd8a00796e6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CCBST | FAO Audit Student list' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9f08de4830bf6ba6cb2ed260acf4783c.png" xmlns="">0HKjUweNBgkKsN05-2p3eXA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

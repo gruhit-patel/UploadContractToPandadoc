@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="S2NmyaQ3OUCqA4_2rT6Tbw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ccbst.ccbst.co/x/new-students" CVScreenId="64ecee4d-3f20-4794-9227-bd42dac6e25f" CvTextArea="112, 314, 199, 16" CvTextArgument="Click to open search area" CvType="Text" DesignTimeRectangle="98, 428, 230, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='                                     Click to open search area                                 ' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='                                     Click to open search area                                 ' tag='BUTTON' type='' class='btn btn-link collapsed' check:innerText='Click to open search area' /&gt;" Guid="1ce95aef-922f-4e55-9636-626fd13a6937" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CCBST | FAO Audit Student list' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5aaae1d5-6252-454e-a889-b14930c96956" CvTextArea="109, 361, 275, 25" CvTextArgument="FAO Audit Student List" CvType="Text" DesignTimeRectangle="109, 356, 1307, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='page-title' aaname=' FAO Audit Student List' check:innerText='FAO Audit Student List' /&gt;" Guid="dc5625e0-77bb-4b61-960c-1805bbfd7489" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="004ef358e1cb565e9c3a0a5ca041cd6b.png" xmlns="">0TK0sxNF6O0mokbGMa3pp_w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

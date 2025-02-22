@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Wqv-hLKqq0K5iIkNSQxduA" Reference="I7eE9wqUo0yoJupDUZEzVQ/Z3MjaItm-kWxXkZeDe0Ihw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ccbst.ccbst.co/x/fao-student/new-students" CVScreenId="dc1a3e0a-22d9-4f45-bc7f-116d3f55f2e1" CvElementArea="1763, 758, 18, 18" CvTextArea="1712, 760, 45, 13" CvTextArgument="Action" CvType="ArrowButton" DesignTimeRectangle="1683, 756, 125, 23" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='datatable_ajax' tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='btn green dropdown-toggle pull-right font-size12' aaname='                             Action                                                       ' check:innerText='Action' /&gt;" Guid="8522942c-864e-4808-9066-017fdd7a02fc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CCBST | FAO Audit Student List' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dc1a3e0a-22d9-4f45-bc7f-116d3f55f2e1" CvTextArea="1700, 717, 45, 13" CvTextArgument="Action" CvType="Text" DesignTimeRectangle="1680, 664, 138, 84" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='datatable_ajax' tag='TABLE' /&gt;&lt;webctrl aaname='Action' type='' tag='TH' class='sorting_disabled' check:innerText='Action' /&gt;" Guid="b3031e5c-8ef5-454c-a6d3-f879ffbd08ce" SearchSteps="FuzzySelector, CV" />
+          <Target DesignTimeRectangle="1565, 664, 115, 84" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='datatable_ajax' tag='TABLE' /&gt;&lt;webctrl aaname='Placement Officer' type='' tag='TH' class='sorting_disabled' check:innerText='Placement Officer' /&gt;" Guid="615d103b-4c53-4786-9119-7fb32cd4249e" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e3dd219a90ad649e9e82b312ea249a68.png" xmlns="">0l9CgMLdofUSzBc_bnP5U5A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

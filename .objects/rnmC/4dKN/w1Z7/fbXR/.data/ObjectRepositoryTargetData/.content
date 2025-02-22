@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lXCQamYOAUSKhMjsv8PD9w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ccbst.ccbst.co/x/new-students" CVScreenId="c798e2bb-84c4-42d2-a9de-22a8d85a3f73" CvElementArea="1497, 193, 158, 46" CvType="InputBox" DesignTimeRectangle="1499, 195, 153, 42" DesignTimeScaleFactor="1.25" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl id='select_campus_id' tag='SELECT' type='' class='form-control margin-top-10' aaname='' /&gt;" Guid="a6221d4d-b9eb-4ba0-8c8b-25f56d263e77" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CCBST | FAO Audit Student list' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c798e2bb-84c4-42d2-a9de-22a8d85a3f73" CvTextArea="1380, 205, 90, 20" CvTextArgument="Help Center" CvType="Text" DesignTimeRectangle="1382, 205, 87, 18" FuzzySelectorArgument="&lt;webctrl tag='B' type='' class='' aaname='Help Center' check:innerText='Help Center' /&gt;" Guid="e486195b-049c-4419-8e2c-6ddc8e843021" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fb6bf4095a4ff27b6ed24fda7946fe0d.png" xmlns="">0mnww6TNtyUyL8kwL51gLpg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

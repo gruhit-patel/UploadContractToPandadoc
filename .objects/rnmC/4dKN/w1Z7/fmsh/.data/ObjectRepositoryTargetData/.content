@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lIZx6H4Z0EGpEy4LuQbiCA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ccbst.ccbst.co/x" CVScreenId="ea174551-092f-4187-bbbb-c3a3f0cea479" CvElementArea="779, 528, 378, 42" CvType="InputBox" DesignTimeRectangle="782, 527, 375, 43" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='email' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='email' tag='INPUT' type='text' class='required email form-control form-control-solid placeholder-no-fix' placeholder='Email' aaname='' /&gt;" Guid="d483378c-7f3d-453c-9907-3db7e6812de9" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CCBST | Admin Login' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="782, 463, 375, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='form-title font-green' aaname='Sign In' check:innerText='Sign In' /&gt;" Guid="46f785a3-8221-46c6-8244-5f3766df2999" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bf1bacf7121cb5994474aec12b51cbe0.png" xmlns="">0W5HXjiJE1EeiMOIevwxuwg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

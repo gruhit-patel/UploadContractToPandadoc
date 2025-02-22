@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4cq8Jqcj2EG0R4z7JN5RXw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="app.pandadoc.com/a" DesignTimeRectangle="11, 350, 326, 682" DesignTimeScaleFactor="1.350000023841858" FuzzySelectorArgument="&lt;webctrl id='kolas-editor-iframe' tag='IFRAME' /&gt;&lt;webctrl class='noAnimation--1010923270' tag='SECTION' type='' aaname='' /&gt;" Guid="8b6ee8aa-7adf-43db-81a1-0a60827e24a7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Human Resource Management (Internship) - 41 Page - PandaDoc' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d1808139-1a90-4d99-8776-ffb78097abae" CvTextArea="108, 312, 131, 22" CvTextArgument="+ Document" CvType="Text" DesignTimeRectangle="100, 308, 151, 32" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='kolas-editor-iframe' tag='IFRAME' /&gt;&lt;webctrl parentid='top-editor-toolbar' tag='BUTTON' type='button' class='Button-cgzqex-0 iWkrqu BaseButton-sc-7rutg1-0 GhostButton-sc-1svqrv3-0 bLgMjQ dqfdRW styled__AddDocumentButton-sc-__sc-6d3tz4-41 jjAFxU __toolbar-add-document-button__' aaname='Document' check:innerText='Document' /&gt;" Guid="7089e78a-8e4b-4ffa-8d93-df096f3f65fc" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2ee58dd3d054af439ce2cf339ab23d14.png" xmlns="">0GINxK2vUJk-W-awfMYcG1w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

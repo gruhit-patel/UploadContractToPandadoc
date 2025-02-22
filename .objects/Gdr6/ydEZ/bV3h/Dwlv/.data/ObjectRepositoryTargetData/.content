@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RayrneXld0aJnUyr3coZDg" Reference="I7eE9wqUo0yoJupDUZEzVQ/Dwlv4TSvmUm7PMPjpjR3jg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="app.pandadoc.com/a" CVScreenId="e54f0d2a-3e43-4c04-bfa4-7759885a7eec" CvTextArea="1554, 251, 64, 21" CvTextArgument="Search" CvType="Text" DesignTimeRectangle="1545, 240, 283, 43" DesignTimeScaleFactor="1.350000023841858" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='' class='Input-sc-1kxjdmn-0 eAtPjM Input-sc-1qolfy6-0 cWPOMi' placeholder='Search' aaname='' /&gt;" Guid="0d9fe3d7-db0b-4bff-b843-e19aa830192f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PandaDoc' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1501, 240, 392, 44" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='' class='AppHeaderSection-zf14h4-0 hRqozR' parentid='app' tag='DIV' aaname='' /&gt;" Guid="a84546df-37de-4661-8a1e-7e5cf40e4e4a" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="00f341e69ecb54d7f09234ab03a8c5b0.png" xmlns="">0n6acVFlw-EywC6lXlobknQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

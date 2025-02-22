@@ -1,0 +1,13 @@
+﻿{
+  "Name": "RenameReplace source fi…",
+  "Type": "Element",
+  "Id": "E9FSJJdDi0y6CqI705BkrQ",
+  "Reference": "I7eE9wqUo0yoJupDUZEzVQ/E9FSJJdDi0y6CqI705BkrQ",
+  "ParentRef": "I7eE9wqUo0yoJupDUZEzVQ/Q4Nlhno0R0CdsceVxzSXOw",
+  "Created": "2025-02-18T17:27:17.5439107Z",
+  "Updated": "2025-02-18T17:27:17.5439107Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

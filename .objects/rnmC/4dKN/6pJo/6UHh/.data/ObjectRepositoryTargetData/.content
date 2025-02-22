@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3wLbmK1hekuIlgbVDhINKA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="newtab" CVScreenId="3e8b7a7c-6f1f-4a53-9f4f-64cf75a09500" CvTextArea="556, 572, 254, 19" CvTextArgument="Search Google or type a URL" CvType="Text" DesignTimeRectangle="492, 552, 933, 61" DesignTimeScaleFactor="1.25" ElementType="DropDown" FullSelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='Search Google or type a URL' role='combo box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='Search Google or type a URL' role='combo box' automationid='' /&gt;" Guid="786d6c75-51a7-4c5e-b33d-6ae7e2f9a26c" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New Tab - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="696, 295, 525, 210" FullSelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='Rise of the Half Moon' role='pane' /&gt;&lt;ctrl name='Rise of the Half Moon' role='push button' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='Rise of the Half Moon' role='pane' /&gt;&lt;ctrl name='Rise of the Half Moon' role='push button' /&gt;&lt;ctrl role='grouping' automationid='' /&gt;" Guid="d393d6ae-8f15-4c82-9e73-10f940e12b1e" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dd6d40b2155f4be867dfa39d5f03296e.png" xmlns="">0r9A7an3jwUaDqmuTykoo9w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

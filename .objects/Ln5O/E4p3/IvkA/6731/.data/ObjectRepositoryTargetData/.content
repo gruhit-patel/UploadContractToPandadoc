@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YDgWK1E_HUGGR1jGN3tkiQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="newtab" CVScreenId="16e703ef-c0fc-455c-81c7-01d7fe4699ac" CvElementArea="161, 65, 1548, 46" CvType="InputBox" DesignTimeRectangle="205, 72, 1452, 31" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='New Tab - Google Chrome - Gruhit (Gruhit CCBST)' role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='New Tab - Google Chrome - Gruhit (Gruhit CCBST)' role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' automationid='' /&gt;" Guid="e6fe4c8e-69c7-4f60-b55d-d910b5980e22" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New Tab - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="16e703ef-c0fc-455c-81c7-01d7fe4699ac" CvElementArea="161, 65, 1548, 46" CvType="InputBox" DesignTimeRectangle="165, 72, 31, 31" ElementType="Icon" FullSelectorArgument="&lt;ctrl name='New Tab - Google Chrome - Gruhit (Gruhit CCBST)' role='pane' /&gt;&lt;ctrl name='Search icon' role='graphic' /&gt;" FuzzySelectorArgument="&lt;ctrl name='New Tab - Google Chrome - Gruhit (Gruhit CCBST)' role='pane' /&gt;&lt;ctrl name='Search icon' role='graphic' automationid='' /&gt;" Guid="e5397e00-efb7-49ff-b439-d4eb4b59d39b" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6e8bd93d765fcff87681a77eb5733f32.png" xmlns="">0MZ978e2ZAUasTlPyJRHynQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

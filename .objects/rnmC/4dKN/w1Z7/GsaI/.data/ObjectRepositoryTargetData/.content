@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QkqAZoO-ZEeo8uz3nNOXgw" Reference="I7eE9wqUo0yoJupDUZEzVQ/GsaIUmtMFku8AddndY22Xg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ccbst.ccbst.co/x/fao-student/new-students" CVScreenId="879bd098-d666-47a6-b70f-25e92e03f3c3" CvElementArea="1628, 824, 86, 40" CvType="Button" DesignTimeRectangle="1630, 826, 82, 37" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='                                                          Reset                                                     ' parentid='collapseId' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='                                                          Reset                                                     ' parentid='collapseId' tag='BUTTON' type='' class='btn btn-sm red btn-outline filter-cancel' check:innerText='Reset' /&gt;" Guid="3f2b6672-e374-4714-a1a1-b66749826454" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CCBST | FAO Audit Student List' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="879bd098-d666-47a6-b70f-25e92e03f3c3" CvElementArea="1530, 824, 96, 40" CvTextArea="1562, 836, 48, 13" CvTextArgument="Search" CvType="Button" DesignTimeRectangle="1533, 826, 92, 37" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='                                                          Search                                                     ' parentid='collapseId' tag='BUTTON' type='' class='btn btn-sm green btn-outline filter-submit margin-bottom' check:innerText='Search' /&gt;" Guid="54ce774a-df35-474c-a292-f833a8553525" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e2719fef959e175333367a7accd1fc81.png" xmlns="">0s6CxDYh0vEqaf-A4jgFsGw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
