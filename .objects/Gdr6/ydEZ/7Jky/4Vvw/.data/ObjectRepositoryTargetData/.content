@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WuFVmFc2uk6UNN-6iMbTVQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="app.pandadoc.com/a" CVScreenId="9b275659-9ecd-4dcb-918b-af87643543aa" CvElementArea="1820, 647, 41, 43" CvType="Icon" DesignTimeRectangle="1823, 650, 36, 36" DesignTimeScaleFactor="1.5" ElementType="Icon" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aria-role='presentation' tableCol='6' tableRow='2' tag='svg' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aria-role='presentation' type='' class='Icon-sc-36vrnf-0 hXRptq Icon__StyledIcon-ttu7ny-0 iTxbyc' tag='svg' aaname='' /&gt;" Guid="a5ecc953-17e6-4147-9911-e78663e51163" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAFmSURBVFhH7Zi5qoZADEbvU9uIG76FuNeCIPg4rp0iCGI/PxGUUVPMxahTWBwQ+SSHhAkyf/M8M5n5BK+CCo7jyIZhYH3fPwLUgpqYy05wmqZHxY5AbXDgnXaCb8qtgAPvtAlCi7EP3oAf9yYoQ/dW+C5ugljwTUgFm6ZhURQx0zQX4jhmbduiWVFIBcMwZIqi7ABJLCsKqaBhGCdB6CSWFYVUUNO0k6Cu62hWFFJBx3FOgq7rollRSAWLomCe5y2jhtH6vs/KskSzopAK3sEneBVSwaqqll24Lmp4hndYVhRSQTgUx1MM77CsKKSCqqqeBKXagyAjtaD0I4YDEQTBtqjhz6auazQrCqngHXyCVyEV/Bb1VUHpFzWM9ShoWRaaFYVUMEmSk2CapmhWFFLBrutYlmXLorZtm+V5jub+A6ngHZwEpb/6kP7yCJChi3z3gJ2g9BeYK9DiJ0WhFj9WHlRQHmb2AzGKEOWkOJ4BAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PandaDoc' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="64f6b7f266a2b593f31867cf44291e50.png" xmlns="">0JBKLMuaPuUqMfLErZDtbvg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

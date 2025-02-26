@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Human Resource Manageme…",
+  "Type": "Element",
+  "Id": "zC7hRutUykmpEPumXGGvlA",
+  "Reference": "I7eE9wqUo0yoJupDUZEzVQ/zC7hRutUykmpEPumXGGvlA",
+  "ParentRef": "I7eE9wqUo0yoJupDUZEzVQ/6g4aFh31t0eJnjTlKqE-ww",
+  "Created": "2025-02-24T19:16:02.0894311Z",
+  "Updated": "2025-02-24T19:16:02.0894311Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

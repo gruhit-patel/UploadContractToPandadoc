@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome PandaDoc(1)",
+  "Type": "Screen",
+  "Id": "6g4aFh31t0eJnjTlKqE-ww",
+  "Reference": "I7eE9wqUo0yoJupDUZEzVQ/6g4aFh31t0eJnjTlKqE-ww",
+  "ParentRef": "I7eE9wqUo0yoJupDUZEzVQ/ydEZd3pgAkKjTXzdbHUnaw",
+  "Created": "2025-02-24T19:06:03.0477117Z",
+  "Updated": "2025-02-24T19:06:03.0477117Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

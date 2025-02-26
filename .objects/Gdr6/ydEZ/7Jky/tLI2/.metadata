@@ -1,0 +1,14 @@
+﻿{
+  "Name": "SD17202202549_Contract",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "tLI285y3-E6_Hij2BEDxfA",
+  "Reference": "I7eE9wqUo0yoJupDUZEzVQ/tLI285y3-E6_Hij2BEDxfA",
+  "ParentRef": "I7eE9wqUo0yoJupDUZEzVQ/7Jkymw5TtECNZqJAX8wfCw",
+  "Created": "2025-02-25T16:24:24.3819676Z",
+  "Updated": "2025-02-25T16:24:24.3819676Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

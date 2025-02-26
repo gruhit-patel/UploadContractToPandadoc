@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wAFKWJ-4NkuYh4CCu0Il_A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="app.pandadoc.com/a" CVScreenId="583713a9-a780-41bf-acef-9172f203bf09" CvTextArea="551, 419, 261, 22" CvTextArgument="SD17202202549 Contract" CvType="Text" DesignTimeRectangle="503, 405, 1253, 48" DesignTimeScaleFactor="1.5" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='search' class='Input-sc-1kxjdmn-0 eAtPjM Input-sc-1qolfy6-0 gepMnR' placeholder='Search' aaname='' /&gt;" Guid="387aca99-7409-4941-b7c7-ef6adb191f9e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PandaDoc' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f52ec601a382827241ce53c19c9b7129.png" xmlns="">09PEJEOQjHESyZYTL62Ylkg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uF7YCGF4tUOqQlKlANmUbg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="app.pandadoc.com/a" CVScreenId="a7dc13f7-de26-4655-855f-3122763a663e" CvElementArea="1288, 238, 221, 53" CvTextArea="1307, 254, 184, 21" CvTextArgument="Create document" CvType="Button" DesignTimeRectangle="1290, 240, 217, 48" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="&lt;webctrl id='kolas-editor-iframe' tag='IFRAME' /&gt;&lt;webctrl aaname='Create document' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='kolas-editor-iframe' tag='IFRAME' /&gt;&lt;webctrl aaname='Create document' tag='BUTTON' type='button' class='Button-cgzqex-0 iWkrqu BaseButton-sc-7rutg1-0 PrimaryButton-sc-52bl8x-0 knDXhM cStaUW __create-document__' check:innerText='Create document' /&gt;" Guid="09ad9ffa-f4fa-4a8e-b8ac-c6b66228f81e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Human Resource Management (Internship) - 41 Page - PandaDoc' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a7dc13f7-de26-4655-855f-3122763a663e" CvElementArea="1528, 244, 40, 38" CvType="Icon" DesignTimeRectangle="1531, 246, 36, 36" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl id='kolas-editor-iframe' tag='IFRAME' /&gt;&lt;webctrl aria-role='presentation' type='' class='Icon-sc-36vrnf-0 kkDTth Icon__StyledIcon-ttu7ny-0 iJOWdx' tag='svg' aaname='' /&gt;" Guid="565d92e8-63ee-4267-9953-dd6174b4145f" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAACYSURBVFhH7dVNCgMhEEThnNqTufJyhoJZvvlpHGNH6oNaBZoHI+TTk3PgKAeO+s/AUsqSEQdGRhwYGdkr8C10WyMOJHRbI3u9wdbaK6PbGvEbJHRbI3t94tkjUz8x3bgacWBkZK83OHvEgZERB0ZGHgfqL2qFR4G11uOX37sNXBknl4Gr4+Q0MEOcYGCWOMHATBw4Knlg71+R6i39sT+6BwAAAABJRU5ErkJggg==" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="eb9a0d64acaa6faebf11953de354ea11.png" xmlns="">03hsuRn2NFkeIhJrgFYjKAw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

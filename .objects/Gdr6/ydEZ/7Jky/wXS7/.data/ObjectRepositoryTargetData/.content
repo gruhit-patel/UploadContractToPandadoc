@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="K29L75lFvkCzP0oxlRD3ew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="app.pandadoc.com/a" CVScreenId="cf7fd3fb-089e-4754-a335-0d02d5bf5b0f" CvTextArea="1250, 777, 61, 21" CvTextArgument="Delete" CvType="Text" DesignTimeRectangle="1251, 765, 309, 48" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl id='kolas-editor-iframe' tag='IFRAME' /&gt;&lt;webctrl aaname='Delete' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='kolas-editor-iframe' tag='IFRAME' /&gt;&lt;webctrl aaname='Delete' tag='DIV' type='' class='MenuItem__Content-xcdxyv-3 ticGK' check:innerText='Delete' /&gt;" Guid="9eece36d-fece-4bae-a95c-c6a36c8f576d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SuadaOsman_SD173022025112_Contract - PandaDoc' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cf7fd3fb-089e-4754-a335-0d02d5bf5b0f" CvElementArea="1204, 771, 33, 35" CvType="Icon" DesignTimeRectangle="1203, 771, 36, 36" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl id='kolas-editor-iframe' tag='IFRAME' /&gt;&lt;webctrl aria-role='presentation' type='' class='Icon-sc-36vrnf-0 kkDTth Icon__StyledIcon-ttu7ny-0 iJOWdx' tag='svg' aaname='' /&gt;" Guid="7f31efe7-eebb-4b4c-9a44-6b0c22b2cc81" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAACwSURBVFhH7ZixDcQgEAS//14ogh4QPUATWGc5uOB9t/Za/g92pJUsuIUJiPxZf44EWSTIIkEWSnDOuXrvYcYYx/Q9KEETKKWEaa0d0/dIBb9d+mQyJJglA3qDyFu7GjsTQYJneUXQX+JnztZ9/EyEBJFuhASRboQEkW6EBJFuhASRboQEkW4EJVhr3fcs9p2t+9geAiXIRIJsJMjmUUHkF8fV2JkIkOAvkSCLBDnW2gDoUx3n1XiaEwAAAABJRU5ErkJggg==" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5e661bd3c46b9ac329d74f83d50d489d.png" xmlns="">0yA4r-JtIYkqIjSIl-ju3jQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bsu64e7EQEW8RA8VX0cItA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ccbst.ccbst.co/x/fao-student/new-students" CVScreenId="953f1d93-47d6-4bb2-adf7-15126f572b01" CvTextArea="1570, 810, 199, 16" CvTextArgument="Send Contract Ready Mail" CvType="Text" DesignTimeRectangle="1522, 806, 271, 28" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl id='datatable_ajax' tag='TABLE' /&gt;&lt;webctrl aaname='Send Contract Ready Mail' tableRow='2' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='datatable_ajax' tag='TABLE' /&gt;&lt;webctrl aaname='Send Contract Ready Mail' type='' tag='BUTTON' class='btn btn-group-justified dropdown-item p-3 send-contract-mail-btn' check:innerText='Send Contract Ready Mail' /&gt;" Guid="3e3cd448-d444-4ff1-ab44-bf99ec5c492b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CCBST | FAO Audit Student List' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1544, 558, 115, 84" ElementType="Text" FullSelectorArgument="&lt;webctrl id='datatable_ajax' tag='TABLE' /&gt;&lt;webctrl aaname='Placement Officer' tableRow='1' tag='TH' /&gt;" FuzzySelectorArgument="&lt;webctrl id='datatable_ajax' tag='TABLE' /&gt;&lt;webctrl aaname='Placement Officer' type='' tag='TH' class='sorting_disabled' check:innerText='Placement Officer' /&gt;" Guid="9e638b5a-1bec-4cef-abb9-9cf9016fca55" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="04da6bdbdee409a66a2f22aac3562d26.png" xmlns="">076bzcjCbFk-5JqG0aMvjZA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Resend Contract Ready M…(2)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "ugAgjDlQRUCRQBAVY7fPag",
+  "Reference": "I7eE9wqUo0yoJupDUZEzVQ/ugAgjDlQRUCRQBAVY7fPag",
+  "ParentRef": "I7eE9wqUo0yoJupDUZEzVQ/w1Z7ZNF2sUeJy5opWGSVBA",
+  "Created": "2025-02-23T03:47:28.5309301Z",
+  "Updated": "2025-02-23T03:47:28.5309301Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

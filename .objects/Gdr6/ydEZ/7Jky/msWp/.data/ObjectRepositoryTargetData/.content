@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hHFnb_3EoEaM2mICRmS7Ag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="app.pandadoc.com/a" CVScreenId="078de5e0-71ae-4d41-b25d-f3326e7a7ce7" CvTextArea="596, 626, 430, 24" CvTextArgument="SuadaOsman_SD173022025112_Contract" CvType="Text" DesignTimeRectangle="599, 621, 424, 29" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='SPAN' class='MiddleTruncateTooltip__Truncated-sc-157i8rl-1 jcqQld' aaname='' check:innerText='SuadaOsman_SD173022025112_Contract' /&gt;" Guid="4e40f365-d6b1-4a55-8a6e-fd17332f8300" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PandaDoc' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7d99206bfbbcc9a1ba892e39f3c4efce.png" xmlns="">0HL2azpt4502xgCI2F12PLQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

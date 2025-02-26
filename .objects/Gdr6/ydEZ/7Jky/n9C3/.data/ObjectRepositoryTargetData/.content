@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="levSP7jTa0u17TYkOa9COg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="app.pandadoc.com/a" CVScreenId="a83aa363-135b-4db3-91dd-4013118f8b95" CvTextArea="1038, 797, 312, 24" CvTextArgument="Try searching for something else." CvType="Text" DesignTimeRectangle="1041, 795, 310, 24" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;p' parentid='app' tag='P' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' parentid='app' tag='P' class='Paragraph-sc-1xalku8-0 frhUPX Paragraph-t6avu0-0 bbKdfI' aaname='Try searching for something else.' check:innerText='Try searching for something else.' /&gt;" Guid="963650fb-03e0-410d-84ea-e47544751486" ScopeSelectorArgument="&lt;html app='chrome.exe' title='PandaDoc' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ec649139795aecf04d563a37c787b08d.png" xmlns="">0JPjVCZyKWUipkmIPNnZMLw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

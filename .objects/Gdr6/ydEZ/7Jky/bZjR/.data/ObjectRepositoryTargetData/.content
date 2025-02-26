@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3aMJPKCLAUiMvalS6oF3fg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="app.pandadoc.com/a" CVScreenId="fe07ef62-c2a0-4a57-b9c5-12a401bd1c76" CvElementArea="1593, 161, 32, 41" CvType="Icon" DesignTimeRectangle="1591, 164, 36, 36" DesignTimeScaleFactor="1.5" ElementType="Icon" FullSelectorArgument="&lt;webctrl id='kolas-editor-iframe' tag='IFRAME' /&gt;&lt;webctrl aria-role='presentation' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;button&amp;gt;div&amp;gt;svg' tag='svg' /&gt;" FuzzySelectorArgument="&lt;webctrl id='kolas-editor-iframe' tag='IFRAME' /&gt;&lt;webctrl aria-role='presentation' type='' tag='svg' class='Icon-sc-36vrnf-0 kkDTth Icon__StyledIcon-ttu7ny-0 iJOWdx' aaname='' /&gt;" Guid="fa86e299-fb1f-47c4-a969-4f470d730035" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAELSURBVFhH7dY7ioRQEIXhWbWR+MR9CD5QFyAYCC7JZ2oNJXcGpp3sHMGgfhAaK/noq9X9JS/PgGgGRDMgmgHRKMB936VtW0mS5Lq6rpPjONwUiwJsmkY8z/tzKZIRBRhF0Q2o3yQjCjAIghswDEM3xaIA8zy/AYuicFMsCnCeZynLUuI4vo62qipZlsVNsSjAJzMgGgW4ruu1C38WtX7We4woQH0pPt9ivceIAvR9/wbU5c2IAvzvl+RVwNcfsb4QdV3/Lmr9Z7Ntm5tiUYBPZkA02jNoixrp9Ytaj/UTmKapm2JRgH3f34DDMLgpFgV4nqeM43gt6izLZJomN8GjAJ/MgGgGRDMglsg3V05eY+qd/IIAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SuadaOsman_SD173022025112_Contract - PandaDoc' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="fe07ef62-c2a0-4a57-b9c5-12a401bd1c76" CvTextArea="1692, 171, 144, 29" CvTextArgument="? Need help" CvType="Text" DesignTimeRectangle="1676, 162, 177, 48" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='kolas-editor-iframe' tag='IFRAME' /&gt;&lt;webctrl aaname='Need help' tag='BUTTON' type='button' class='Button-cgzqex-0 iWkrqu BaseButton-sc-7rutg1-0 GhostButton-sc-1svqrv3-0 DSnpM dqfdRW styled__Button-sc-1oyd29w-0 dwiaNv' check:innerText='Need help' /&gt;" Guid="22546df5-2dd0-465f-bf88-9fd437c355cb" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7024c38f67d9b0d8173f498193170404.png" xmlns="">0gJSRIS1TVUebPCS1RzVHDw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
